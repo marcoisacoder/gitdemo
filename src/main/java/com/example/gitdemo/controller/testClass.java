@@ -13,5 +13,7 @@ public class testClass {
 	System.out.println("this is first modify for branch bug002..");
 
 	System.out.println("this is second modify for branch bug002.."):
+
+	//first modify for mergetool
     }
 }
