@@ -10,5 +10,7 @@ public class testClass {
     public static void main(String[] args) {
         System.out.println("this is test class.");
 	System.out.println("add modify for branch develop..");
+
+	System.out.println("this is third modify for branch bug002");
     }
 }
