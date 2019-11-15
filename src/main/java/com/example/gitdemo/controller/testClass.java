@@ -9,5 +9,7 @@ package com.guwukeji.varysmcn;
 public class testClass {
     public static void main(String[] args) {
         System.out.println("this is test class.");
+
+	System.out.println("this is first modify for branch bug002..");
     }
 }
