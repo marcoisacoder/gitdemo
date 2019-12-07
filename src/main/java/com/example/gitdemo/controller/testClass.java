@@ -20,5 +20,7 @@ public class testClass {
 	//second modify for mergetool
 	//
 	//for test rebase. 1st, modify
+	//
+	//modify for git diff
     }
 }
